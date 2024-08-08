@@ -1,0 +1,4 @@
+Core java
+JDBC
+MySql
+Redis --> (70 time faster than RDBMS) (Run in RAM)

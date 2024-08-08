@@ -1,0 +1,13 @@
+class Constructor_overloading{
+void add(int a){
+a++;
+System.out.println(a);
+}
+
+public static void main(String args[]){
+Constructor_overloading c1 = Constructor_overloading();
+c1.add(1);
+}
+
+
+}

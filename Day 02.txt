@@ -1,0 +1,5 @@
+System.out.println();
+
+System --> is a class in java.lang
+out --> static ref variable that refers PrintStream in java.io
+println --> is a method in a PrintStream class in java.io     (Overloaded method)

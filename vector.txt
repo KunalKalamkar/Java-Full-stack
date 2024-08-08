@@ -1,0 +1,3 @@
+import java.util.vector;
+// default capacity is 10;  we can add more capacity
+// issue --> at a time only one thread can run

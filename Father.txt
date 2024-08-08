@@ -1,0 +1,14 @@
+class Father{
+void job(){
+System.out.println("Retd professor");
+}
+
+void property(){
+System.out.println(" a house in native place");
+}
+
+void hobby(){
+System.out.println("news paper and TV");
+}
+
+}

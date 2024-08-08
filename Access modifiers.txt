@@ -1,0 +1,9 @@
+		Public	protected		default   	  private
+Class 	Ok		  Not ok		  ok		  Not ok	
+
+nested
+class  	ok		  ok 			  ok			ok
+
+methods   ok		  ok			  ok			ok
+
+variables ok   		  ok			  ok 			ok 
